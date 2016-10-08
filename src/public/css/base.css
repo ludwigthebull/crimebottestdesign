@@ -4,7 +4,7 @@ body {
 }
 
 .messages {
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Dnews-files-2014-07-wiki-bot-140715-670-jpg.jpg" alt="No Image Loaded" style="width:40;height:40;">
+  img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Dnews-files-2014-07-wiki-bot-140715-670-jpg.jpg" alt="No Image Loaded" style="width: 30px; height: 30px;"
   list-style: none;
   margin: 0;
   padding: 0;
