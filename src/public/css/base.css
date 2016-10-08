@@ -4,6 +4,7 @@ body {
 }
 
 .messages {
+  content:url(https://upload.wikimedia.org/wikipedia/commons/0/0e/Dnews-files-2014-07-wiki-bot-140715-670-jpg.jpg/40x40);
   list-style: none;
   margin: 0;
   padding: 0;
