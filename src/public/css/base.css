@@ -3,6 +3,13 @@ body {
   background-image: url("http://www.publicdomainpictures.net/pictures/90000/velka/clear-blue-sky-landscape.jpg");
 }
 
+h1 {
+  color: black;
+  text-align: center;
+}
+
+<h1>Welcome to LawBot</h1>
+
 .messages {
   list-style: none;
   margin: 0;
