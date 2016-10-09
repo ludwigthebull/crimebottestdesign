@@ -1,8 +1,6 @@
 body {
   padding-top: 3.5rem;
-  background-image: url("https://media.giphy.com/media/RrIdGcnknHD0c/giphy.gif");
-  background-size: cover;
-
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ec/Himmelsblau.jpg");
 }
 
 .messages {
